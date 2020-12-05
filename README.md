@@ -1,5 +1,7 @@
 # Life Expectancy vs GDP
 
+![world bank](https://user-images.githubusercontent.com/60836219/101261987-f9257f80-36ef-11eb-88b4-666df8d51498.png)
+
 ## Problem Statement - Use Case
 We are looking to see if there is a correlation between GDP and life expectancy. Current assumptions that the higher the GDP, the longer the life expectancy. 
 
